@@ -52,6 +52,17 @@ I always try to integrate good practices, patterns and known design principles i
 
 ------------
 
+### 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOteroGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOteroGitHub&layout=compact&theme=radical" alt="Lenguajes más utilizados">
+</div>
+
+------------
+
 ### 📫 Contact me!
 <p style="color: #E6E6FA;">
 Stay tuned for my collaborations on my Github profile. Thanks for being here.
@@ -64,17 +75,6 @@ Stay tuned for my collaborations on my Github profile. Thanks for being here.
   <a href="https://www.linkedin.com/in/carlos-otero-ram%C3%ADrez/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
-------------
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOteroGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOteroGitHub&layout=compact&theme=radical" alt="Lenguajes más utilizados">
 </div>
 
 ------------
