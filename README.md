@@ -1,13 +1,14 @@
 <div align="center">
   <h1 style="color: #8A2BE2; font-size: 3em;">¡Hi I'm Carlos Otero! 👋</h1>
-  <p style="color: #9370DB; font-size: 1.2em;">🚀 Software engineer| 💻 Teach Leader</p>
+  <p style="color: #9370DB; font-size: 1.2em;">🚀 Computer Engineer | 💻 Software Developer and Engineer | Technical Leader | IT Technical Support Specialist</p>
 </div>
 
 ---
 
 ### 👨‍💻 About me
-<p style="color: #E6E6FA;">a
-</p>
+<p style="color: #E6E6FA;">I'm a computer engineer by profession with over six years of experience in my field. I have held various roles in IT, including technical development lead, software engineer, technical support, and software programmer in areas such as backend, frontend, and databases. During my career, I have had the opportunity to work on various projects for different commercial companies, collaborating closely with multidisciplinary teams.
+
+My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</p>
 
 ---
 
