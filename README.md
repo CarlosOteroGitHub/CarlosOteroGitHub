@@ -51,7 +51,7 @@ I always try to integrate good practices, patterns and known design principles i
 
 ------------
 
-### 📫 Contact me
+### 📫 Contact me!
 <p style="color: #E6E6FA;">
 Stay tuned for my collaborations on my Github profile. Thanks for being here.
   
@@ -68,12 +68,14 @@ Stay tuned for my collaborations on my Github profile. Thanks for being here.
 ------------
 
 ### 📊 GitHub stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zujuy&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosOteroGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zujuy&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOteroGitHub&layout=compact&theme=radical" alt="Lenguajes más utilizados">
 </div>
 
 ------------
 
-### If you can imagine it, you can program it. Never give up!
+### "If you can imagine it, you can program it" 
+### Never give up!
