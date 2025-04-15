@@ -3,14 +3,28 @@
   <p style="color: #9370DB; font-size: 1.2em;">🚀 Computer Engineer | 💻 Software Developer and Engineer | 📈 Technical Leader | 🛠️ IT Technical Support Specialist</p>
 </div>
 
----
+------------
+
+### 🛠️ In my GitHub profile you will find projects related to:
+
++ Python, Java, and Typescript
++ SQL and NoSQL.
++ Object-oriented programming.
++ API Rest.
++ Data structures.
++ Design patterns.
++ Design principles.
++ Frontend with Angular, ReactJS.
++ Backend with FastAPI, Flask, DJango and Spring Boot.
+  
+------------
 
 ### 👨‍💻 About me
 <p style="color: #E6E6FA;">I'm a computer engineer by profession with over six years of experience in my field. I have held various roles in IT, including technical development lead, software engineer, technical support, and software programmer in areas such as backend, frontend, and databases. During my career, I have had the opportunity to work on various projects for different commercial companies, collaborating closely with multidisciplinary teams.
 
 My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</p>
 
----
+------------
 
 ### 📌 Technologies and Tools
 <div align="center">
@@ -24,17 +38,7 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
   <img src="https://img.shields.io/badge/-Adobe%20Suite-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe Suite">
 </div>
 
----
-
-### 📊 GitHub stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zujuy&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zujuy&layout=compact&theme=radical" alt="Lenguajes más usados">
-</div>
-
----
-
+------------
 
 ### 📫 Contact me
 <p style="color: #E6E6FA;">
@@ -49,6 +53,15 @@ Feel free to reach out! I'm open to collaborations, questions, or just chatting 
   </a>
 </div>
 
----
+------------
 
-If you can imagine it, you can program it. Never give up.
+### 📊 GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zujuy&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zujuy&layout=compact&theme=radical" alt="Lenguajes más usados">
+</div>
+
+------------
+
+**If you can imagine it, you can program it. Never give up!**
