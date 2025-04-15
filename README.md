@@ -72,10 +72,11 @@ Stay tuned for my collaborations on my Github profile. Thanks for being here.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosOteroGitHub&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
   <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosOteroGitHub&layout=compact&theme=radical" alt="Lenguajes más utilizados">
 </div>
 
 ------------
 
-### "If you can imagine it, you can program it" 
+### "_If you can imagine it, you can program it_" 
 ### Never give up!
