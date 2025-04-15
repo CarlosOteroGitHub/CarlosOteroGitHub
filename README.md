@@ -30,11 +30,16 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 ------------
 
 ### 📌 Technologies and Tools
+
+I always try to integrate good practices, patterns and known design principles into technical solutions. Additionally, I have extensive knowledge and proven experience in various technologies such as:
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-NoSQL-05C46B?style=flat&logo=mongodb&logoColor=white" alt="NoSQL">
@@ -48,7 +53,8 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 
 ### 📫 Contact me
 <p style="color: #E6E6FA;">
-Feel free to reach out! I'm open to collaborations, questions, or just chatting about tech, music or books! 📚
+Stay tuned for my collaborations on my Github profile. Thanks for being here.
+  
 </p>
 <div align="center">
   <a href="mailto:[carlosoteroram@gmail.com]">
