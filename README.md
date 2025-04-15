@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #8A2BE2; font-size: 3em;">¡Hi I'm Carlos Otero! 👋</h1>
-  <p style="color: #9370DB; font-size: 1.2em;">🚀 Computer Engineer | 💻 Software Developer and Engineer | Technical Leader | IT Technical Support Specialist</p>
+  <p style="color: #9370DB; font-size: 1.2em;">🚀 Computer Engineer | 💻 Software Developer and Engineer | 📈 Technical Leader | 🛠️ IT Technical Support Specialist</p>
 </div>
 
 ---
@@ -12,7 +12,7 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 
 ---
 
-### 🛠 Technologies
+### 📌 Technologies and Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
@@ -41,13 +41,14 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 Feel free to reach out! I'm open to collaborations, questions, or just chatting about tech, music or books! 📚
 </p>
 <div align="center">
-  <a href="mailto:[itza.lp@gmail.com]">
+  <a href="mailto:[carlosoteroram@gmail.com]">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/itza-blanco/">
+  <a href="https://www.linkedin.com/in/carlos-otero-ram%C3%ADrez/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.tiktok.com/@itzazujuy">
-    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
 </div>
+
+---
+
+If you can imagine it, you can program it. Never give up.
