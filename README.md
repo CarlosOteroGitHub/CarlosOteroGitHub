@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #8A2BE2; font-size: 3em;">¡Hi I'm Carlos Otero! 👋</h1>
-  <p style="color: #9370DB; font-size: 1.2em;">🚀 Computer Engineer | 💻 Software Developer and Engineer | 📈 Technical Leader | 🛠️ IT Technical Support Specialist</p>
+  <p style="color: #9370DB; font-size: 1.2em;">🚀 ** Computer Engineer ** | 💻 ** Software Developer and Engineer ** | 📈 ** Technical Leader ** | 🛠️ ** IT Technical Support Specialist** </p>
 </div>
 
 ------------
@@ -64,4 +64,4 @@ Feel free to reach out! I'm open to collaborations, questions, or just chatting 
 
 ------------
 
-**If you can imagine it, you can program it. Never give up!**
+#### If you can imagine it, you can program it. Never give up!
