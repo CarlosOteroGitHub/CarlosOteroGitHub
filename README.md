@@ -5,6 +5,13 @@
 
 ------------
 
+### 👨‍💻 About me
+<p style="color: #E6E6FA;">I'm a computer engineer by profession with over six years of experience in my field. I have held various roles in IT, including technical development lead, software engineer, technical support, and software programmer in areas such as backend, frontend, and databases. During my career, I have had the opportunity to work on various projects for different commercial companies, collaborating closely with multidisciplinary teams.
+
+My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</p>
+
+------------
+
 ### 🛠️ In my GitHub profile you will find projects related to:
 
 + HTML and CSS.
@@ -22,13 +29,6 @@
   
 ------------
 
-### 👨‍💻 About me
-<p style="color: #E6E6FA;">I'm a computer engineer by profession with over six years of experience in my field. I have held various roles in IT, including technical development lead, software engineer, technical support, and software programmer in areas such as backend, frontend, and databases. During my career, I have had the opportunity to work on various projects for different commercial companies, collaborating closely with multidisciplinary teams.
-
-My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</p>
-
-------------
-
 ### 📌 Technologies and Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -38,6 +38,9 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-NoSQL-05C46B?style=flat&logo=mongodb&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" alt="Scrum">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </div>
 
