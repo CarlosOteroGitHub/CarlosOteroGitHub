@@ -17,6 +17,7 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 + HTML and CSS.
 + Python, Java, Typescript and Kootlin.
 + SQL and NoSQL.
++ Programming logic.
 + Object-oriented programming.
 + API Rest.
 + Data structures.
@@ -78,5 +79,5 @@ Stay tuned for my collaborations on my Github profile. Thanks for being here.
 
 ------------
 
-### "_If you can imagine it, you can program it_" 
+## "_If you can imagine it, you can program it_" 
 ### Never give up!
