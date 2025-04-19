@@ -17,15 +17,16 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 + HTML and CSS.
 + Python, Java, Typescript and Kootlin.
 + SQL and NoSQL.
-+ Programming logic.
-+ Object-oriented programming.
-+ API Rest.
-+ Data structures.
-+ Design patterns.
-+ Design principles.
++ Programming Logic.
++ Object-Oriented Programming.
++ Concurrent Programming.
++ API RestFull.
++ Data Structures.
++ Design Patterns.
++ Design Principles.
 + Clean Code.
-+ Microservices architecture.
-+ Frontend with Angular, ReactJS.
++ Microservices Architecture.
++ Frontend with Angular and ReactJS.
 + Backend with FastAPI, Flask, DJango and Spring Boot.
   
 ------------
