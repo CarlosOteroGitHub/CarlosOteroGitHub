@@ -8,14 +8,15 @@
 ### 👨‍💻 About me
 <p style="color: #E6E6FA;">I'm a computer engineer by profession with over six years of experience in my field. I have held various roles in IT, including technical development lead, software engineer, technical support, and software programmer in areas such as backend, frontend, and databases. During my career, I have had the opportunity to work on various projects for different commercial companies, collaborating closely with multidisciplinary teams.
 
-My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</p>
+My professional philosophy is to offer my clients innovative, efficient, and cost-effective solutions aimed at substantially improving business processes with high quality standards, in an ethical and timely manner.</
+p>
 
 ------------
 
 ### 🛠️ In my GitHub profile you will find projects related to:
 
 + HTML and CSS.
-+ Python, Java, Typescript and Kootlin.
++ Python, Java, Typescript, PHP and Kootlin.
 + SQL and NoSQL.
 + Programming Logic.
 + Object-Oriented Programming.
@@ -27,7 +28,7 @@ My professional philosophy is to offer my clients innovative, efficient, and cos
 + Clean Code.
 + Microservices Architecture.
 + Frontend with Angular and ReactJS.
-+ Backend with FastAPI, Flask, DJango and Spring Boot.
++ Backend with FastAPI, Flask, DJango, Spring Boot and Laravel.
   
 ------------
 
